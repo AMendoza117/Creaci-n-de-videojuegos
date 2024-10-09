@@ -39,16 +39,19 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
+  ### [Prototipo 2](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo1)
 * Lección 2
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
+  ### [Prototipo 2](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo2)
 * Lección 3
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
+  ### [Prototipo 3](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3)
 * Lección 4
   * > Tutorial
   * > Laboratorio
@@ -66,7 +69,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Alan Manuel Mendoza Arredondo
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2024
