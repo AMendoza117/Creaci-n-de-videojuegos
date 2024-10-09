@@ -39,7 +39,7 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
-  ### [Prototipo 2](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo1)
+  ### [Prototipo 1](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo1)
 * Lección 2
   * > Tutorial
   * > Laboratorio
