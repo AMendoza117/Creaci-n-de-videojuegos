@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://i0.wp.com/www.silviagaliana.com/wp-content/uploads/2014/04/Fondo-Super-Mario-para-Twitter.jpg?resize=1024%2C341" alt="Logo" width=1200 height=300>
+    <img src="https://i0.wp.com/www.silviagaliana.com/wp-content/uploads/2014/04/Fondo-Super-Mario-para-Twitter.jpg?resize=1024%2C341" alt="Logo" width="1200" height="300">
 
   <p align="center">
     Short description
@@ -11,7 +11,6 @@
   </p>
 </p>
 
-
 ## Contenido
 
 - [Introducción](#introducción)
@@ -20,53 +19,48 @@
 - [Autores](#autores)
 - [Copyright](#copyright)
 
-
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+- **Nombre del proyecto:** Nombre aquí.
+- **Objetivo:** Descripción breve del propósito.
+- **Plataforma, Género, Clasificación, Personajes, Escenario:** Información general.
+- **Historia:** Breve narrativa del juego.
+- **Personajes:** Descripción de los protagonistas y antagonistas.
+- **Reglas de Juego:** Pautas para jugar.
+- **Pantallas de Juego:** Descripción y ejemplos visuales de las pantallas.
+- **Plan de creación de VideoJuego:** Descripción del flujo de desarrollo.
 
 ## Código Fuente
 
-* Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-  ### [Prototipo 1](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo1)
-* Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-  ### [Prototipo 2](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo2)
-* Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-  ### [Prototipo 3](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3)
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* VideoJuego
+### Lección 1
+- **Tutorial**
+- **Laboratorio**
+#### [Prototipo 1](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo1)
 
-## Planificación
+### Lección 2
+- **Tutorial**
+- **Laboratorio**
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+#### [Prototipo 2](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo2)
+
+### Lección 3
+#### [Prototipo 3](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3)
+El Prototipo 3 está dividido en seis partes:
+1. **Parte 1**: [Link a la Parte 1](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3/Parte1)
+2. **Parte 2**: [Link a la Parte 2](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3/Parte2)
+3. **Parte 3**: [Link a la Parte 3](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3/Parte3)
+4. **Parte 4**: [Link a la Parte 4](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3/Parte4)
+5. **Parte 5**: [Link a la Parte 5](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3/Parte5)
+6. **Parte 6**: [Link a la Parte 6](https://github.com/AMendoza117/Creaci-n-de-videojuegos/tree/main/Prototipo3/Parte6)
+
+### Challenge 2
+- **Tutorial**
+- **Laboratorio**
+- **Desafío**
+- **Prueba**
+
+
+### VideoJuego
 
 ## Autores
 Alan Manuel Mendoza Arredondo
